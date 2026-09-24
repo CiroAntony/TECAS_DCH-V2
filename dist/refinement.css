@@ -72,3 +72,14 @@ footer{font-size:13px;padding-top:32px;padding-bottom:32px}footer .wordmark{font
 
 .catalog-product-image{width:100%;height:155px;object-fit:contain;padding:24px 14px;background:#fff;border-bottom:1px solid var(--line)}.category-image{min-height:260px;object-fit:contain;padding:30px;border:1px solid var(--line)}.detail-description{font-size:17px;color:var(--muted);line-height:1.85;margin-bottom:22px}.detail h2{font-size:30px}.specs dd{color:var(--muted)}@media(max-width:760px){.catalog-product-image{height:120px;padding:16px 8px}.category-image{min-height:190px;padding:20px}.detail h2{font-size:26px}}
 main:focus{outline:none}
+
+/* Static HTML: progressive enhancement and native hidden states. */
+[hidden] { display: none !important; }
+.contact fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+@media (max-width: 760px) {
+  html:not(.menu-enhanced) .menu-toggle { display: none; }
+  html:not(.menu-enhanced) header { flex-wrap: wrap; }
+  html:not(.menu-enhanced) header nav {
+    display: flex; position: static; width: 100%; margin: 0; padding: 10px 0 0;
+  }
+}
