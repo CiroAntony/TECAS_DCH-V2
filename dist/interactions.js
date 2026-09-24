@@ -18,72 +18,45 @@ if (menuButton && navigation) {
   });
 }
 
-// Filters only hide/show cards already present in the application page.
-const filters = document.querySelector('.filters');
-if (filters) {
+// Filter existing application cards independently within each brand section.
+document.querySelectorAll('.filters').forEach(filters => {
   filters.hidden = false;
-  const cards = [...document.querySelectorAll('[data-sectors]')];
-  const quote = document.querySelector('[data-filter-quote]');
+  const section = filters.closest('section');
   filters.addEventListener('click', event => {
     const button = event.target.closest('[data-sector]');
     if (!button) return;
-    const sector = button.dataset.sector;
-    cards.forEach(card => {
-      card.hidden = sector !== 'Todos' && !card.dataset.sectors.split('|').includes(sector);
+    section.querySelectorAll('[data-sectors]').forEach(card => {
+      card.hidden = button.dataset.sector !== 'Todos' && !card.dataset.sectors.split('|').includes(button.dataset.sector);
     });
-    if (quote) quote.hidden = sector !== 'Todos';
+    const quote = section.querySelector('[data-filter-quote]');
+    if (quote) quote.hidden = button.dataset.sector !== 'Todos';
     filters.querySelectorAll('[data-sector]').forEach(item => {
-      const active = item === button;
-      item.classList.toggle('active', active);
-      item.setAttribute('aria-pressed', String(active));
+      item.classList.toggle('active', item === button);
+      item.setAttribute('aria-pressed', String(item === button));
     });
   });
-}
+});
 
-// Search and pagination operate on this category's static HTML cards.
-const catalogue = document.querySelector('[data-catalog]');
-if (catalogue) {
-  const cards = [...catalogue.querySelectorAll('[data-product]')];
-  const search = catalogue.querySelector('input[type="search"]');
-  const pagination = catalogue.querySelector('.pagination');
-  const buttons = [...pagination.querySelectorAll('[data-page]')];
-  const count = catalogue.querySelector('#count');
-  const empty = catalogue.querySelector('[data-empty]');
-  const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
-  let page = 1;
-  catalogue.querySelector('.search').hidden = false;
-
-  function updateCatalogue() {
-    const query = normalize(search.value);
-    const matches = cards.filter(card => normalize(card.textContent).includes(query));
-    const pages = Math.ceil(matches.length / 6);
-    page = Math.min(page, Math.max(pages, 1));
-    const start = (page - 1) * 6;
-    const visible = new Set(matches.slice(start, start + 6));
-    cards.forEach(card => { card.hidden = !visible.has(card); });
-    empty.hidden = matches.length > 0;
-    count.textContent = matches.length
-      ? `Mostrando ${start + 1}–${Math.min(start + 6, matches.length)} de ${matches.length} resultados`
-      : '0 resultados';
-    pagination.hidden = pages <= 1;
-    buttons.forEach(button => {
-      const number = Number(button.dataset.page);
-      button.hidden = number > pages;
-      button.classList.toggle('active', number === page);
-      if (number === page) button.setAttribute('aria-current', 'page');
-      else button.removeAttribute('aria-current');
-    });
-  }
-  search.addEventListener('input', () => { page = 1; updateCatalogue(); });
-  pagination.addEventListener('click', event => {
-    const button = event.target.closest('[data-page]');
-    if (!button) return;
-    page = Number(button.dataset.page);
-    updateCatalogue();
-    catalogue.querySelector('#category-title').scrollIntoView({ block: 'start' });
+document.querySelectorAll('[data-product-group]').forEach(group => {
+  group.querySelector('.compact-search').hidden = false;
+  const cards = [...group.querySelectorAll('[data-product]')];
+  const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+  group.querySelector('input').addEventListener('input', event => {
+    cards.forEach(card => { card.hidden = !normalize(card.textContent).includes(normalize(event.target.value)); });
+    group.querySelector('[data-search-empty]').hidden = cards.some(card => !card.hidden);
   });
-  updateCatalogue();
+});
+
+// Native HTML details work without JavaScript; this supports direct links to a selected item.
+function revealLinkedDetail() {
+  const item = document.getElementById(location.hash.slice(1));
+  if (!item || item.tagName !== 'DETAILS') return;
+  item.hidden = false;
+  item.open = true;
+  item.scrollIntoView({ block: 'start' });
 }
+window.addEventListener('hashchange', revealLinkedDetail);
+revealLinkedDetail();
 
 // The contact form is intentionally disconnected from any sending service.
 const contactForm = document.querySelector('#contact-form');
