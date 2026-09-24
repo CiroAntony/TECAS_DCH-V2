@@ -1,0 +1,1094 @@
+{
+  "brands": {
+    "tecas": {
+      "name": "TECAS",
+      "title": "Maquinarias",
+      "intro": "Repuestos, electrónica y componentes de distintas marcas para mantener tus equipos operativos.",
+      "categories": [
+        "Partes de control remoto",
+        "Insumos y repuestos variados",
+        "Componentes electrónicos"
+      ],
+      "codes": ["TCS-CR01", "TCS-RP12", "TCS-EL04"],
+      "counts": [40, 11, 6],
+      "image": "p22"
+    },
+    "dch": {
+      "name": "DCH",
+      "title": "Radiocontroles",
+      "intro": "Sistemas de control remoto para operar maquinaria con precisión y seguridad.",
+      "categories": [
+        "Transmisor de mano",
+        "Transmisor con correa para el hombro",
+        "Transmisor de pantalla con correa para el hombro",
+        "Receptor de salida de relé",
+        "Receptor de protocolo de bus",
+        "Piezas de repuesto"
+      ],
+      "codes": [
+        "DCH-H31",
+        "DCH-S22",
+        "DCH-S23",
+        "DCH-R10",
+        "DCH-R11",
+        "DCH-P01"
+      ],
+      "counts": [16, 7, 5, 6, 6, 6],
+      "image": "p25"
+    }
+  },
+  "applications": {
+    "tecas": [
+      [
+        "Robot Shotcrete Alpha 20",
+        "p5-1.webp",
+        ["Construcción", "Minería y petrolero"]
+      ],
+      ["Grúas pórtico", "p5-2.webp", ["Puente grúa"]],
+      ["Camión grúa", "p5-4.webp", ["Construcción", "Camión grúa"]],
+      [
+        "Radiocontroles Hetronic",
+        "p5-3.webp",
+        ["Puente grúa", "Construcción", "Camión grúa", "Minería y petrolero"]
+      ]
+    ],
+    "dch": [
+      ["Grúa monorraíl", "p11-0.webp", ["Puente grúa"]],
+      ["Grúa polipasto CD", "p11-1.webp", ["Puente grúa"]],
+      ["Grúa de polipasto MD", "p11-2.webp", ["Puente grúa"]],
+      ["Grúa de doble viga", "p11-3.webp", ["Puente grúa"]],
+      ["Grúa de gran tonelaje", "p11-4.webp", ["Puente grúa"]],
+      ["Grúa inteligente", "p11-5.webp", ["Puente grúa"]],
+      [
+        "Vehículos especiales",
+        "p11-6.webp",
+        ["Construcción", "Minería y petrolero"]
+      ],
+      [
+        "Equipos eléctricos",
+        "p11-7.webp",
+        ["Construcción", "Minería y petrolero"]
+      ],
+      [
+        "Maquinaria para túneles",
+        "p11-8.webp",
+        ["Construcción", "Oruga", "Minería y petrolero"]
+      ],
+      ["Bomba de hormigón", "p11-9.webp", ["Construcción"]],
+      ["Bomba de remolque", "p12-0.webp", ["Construcción"]],
+      ["Carro de pulverización húmeda", "p12-1.webp", ["Construcción"]],
+      ["Maquinaria agrícola", "p12-2.webp", ["Oruga", "Agricultura"]],
+      [
+        "Vehículos de ingeniería",
+        "p12-3.webp",
+        ["Construcción", "Camión grúa"]
+      ],
+      ["Extinción de incendios municipal", "p12-4.webp", ["Oruga"]],
+      ["Maquinaria portuaria", "p12-5.webp", ["Minería y petrolero"]],
+      ["Otros equipos", "p12-6.webp", ["Construcción", "Torre grúa"]]
+    ]
+  },
+  "services": {
+    "tecas": [
+      ["Reparación de tableros eléctricos", "p32-0.webp"],
+      ["Reparación de equipos Putzmeister", "p32-1.webp"],
+      ["Reparación de equipos Alpha 20 / Alpha 30", "p32-2.webp"],
+      ["Reparación de control remoto IMET", "p32-3.webp"],
+      ["Reparación de control remoto Hetronic", "p32-4.webp"]
+    ],
+    "dch": [
+      ["Mantenimiento y reparación de maquinarias pesadas", "p34-1.webp"],
+      [
+        "Mantenimiento de radiocontroles remoto de maquinaria pesada",
+        "p34-2.webp"
+      ]
+    ]
+  },
+  "descriptions": {
+    "tecas": [
+      [
+        "Componentes para el mantenimiento de sistemas de control remoto industrial. Una selección de partes para conservar la respuesta de los mandos y la comunicación con el equipo.",
+        "Partes de control",
+        "Transmisores, receptores y componentes asociados al sistema de mando.",
+        "Uso",
+        "Mantenimiento y reposición de componentes en maquinaria industrial."
+      ],
+      [
+        "Insumos y repuestos para las tareas de mantenimiento de equipos de minería, energía y construcción. La selección se realiza de acuerdo con la referencia y las necesidades de cada máquina.",
+        "Familia",
+        "Insumos y repuestos para maquinaria.",
+        "Uso",
+        "Reposición de piezas y mantenimiento de los equipos."
+      ],
+      [
+        "Componentes electrónicos para los sistemas de control y operación de maquinaria. Permiten atender las necesidades de reposición e integración de los equipos.",
+        "Familia",
+        "Electrónica y componentes de control.",
+        "Uso",
+        "Tableros, mandos y sistemas electrónicos de maquinaria."
+      ]
+    ],
+    "dch": [
+      [
+        "Transmisor de mano para el mando remoto de maquinaria industrial. Su formato permite reunir las funciones de operación en una botonera de uso directo.",
+        "Tipo de mando",
+        "Transmisor de mano.",
+        "Operación",
+        "Funciones de mando configuradas según la aplicación."
+      ],
+      [
+        "Transmisor con correa para el hombro para tareas de control remoto industrial. Su formato permite llevar el equipo durante la operación y disponer los mandos de acuerdo con la maquinaria.",
+        "Tipo de mando",
+        "Transmisor con correa para el hombro.",
+        "Operación",
+        "Distribución de controles según los movimientos y funciones del equipo."
+      ],
+      [
+        "Transmisor con pantalla y correa para el hombro que reúne el mando del equipo y la visualización de información de operación en un mismo dispositivo.",
+        "Tipo de mando",
+        "Transmisor con pantalla.",
+        "Visualización",
+        "Información disponible según la configuración del sistema."
+      ],
+      [
+        "Receptor que vincula las órdenes del transmisor con el sistema eléctrico de la maquinaria mediante salidas de relé. Se integra al circuito de control de acuerdo con las funciones del equipo.",
+        "Tipo de interfaz",
+        "Salidas de relé.",
+        "Integración",
+        "Conexión al sistema eléctrico de mando de la maquinaria."
+      ],
+      [
+        "Receptor para integrar el radiocontrol con el sistema de comunicación de la maquinaria. La interfaz se selecciona según el protocolo y la arquitectura de control del equipo.",
+        "Tipo de interfaz",
+        "Comunicación mediante protocolo de bus.",
+        "Integración",
+        "Intercambio de órdenes con el sistema de control de la maquinaria."
+      ],
+      [
+        "Piezas de repuesto y accesorios para el mantenimiento de los sistemas de radiocontrol. La selección considera el modelo del transmisor o receptor y la referencia del componente.",
+        "Familia",
+        "Repuestos y accesorios de radiocontrol.",
+        "Uso",
+        "Reposición y mantenimiento del sistema de mando."
+      ]
+    ]
+  },
+  "details": {
+    "detalle/productos/tecas/0": {
+      "title": "Partes de control remoto",
+      "image": "assets/p22-0.webp",
+      "description": "Componentes para el mantenimiento de sistemas de control remoto industrial. Una selección de partes para conservar la respuesta de los mandos y la comunicación con el equipo.",
+      "eyebrow": "TECAS · TCS-CR01",
+      "specs": [
+        [
+          "Partes de control",
+          "Transmisores, receptores y componentes asociados al sistema de mando."
+        ],
+        [
+          "Uso",
+          "Mantenimiento y reposición de componentes en maquinaria industrial."
+        ],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/tecas/1": {
+      "title": "Insumos y repuestos variados",
+      "image": "assets/p22-1.webp",
+      "description": "Insumos y repuestos para las tareas de mantenimiento de equipos de minería, energía y construcción. La selección se realiza de acuerdo con la referencia y las necesidades de cada máquina.",
+      "eyebrow": "TECAS · TCS-RP12",
+      "specs": [
+        ["Familia", "Insumos y repuestos para maquinaria."],
+        ["Uso", "Reposición de piezas y mantenimiento de los equipos."],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/tecas/2": {
+      "title": "Componentes electrónicos",
+      "image": "assets/p22-2.webp",
+      "description": "Componentes electrónicos para los sistemas de control y operación de maquinaria. Permiten atender las necesidades de reposición e integración de los equipos.",
+      "eyebrow": "TECAS · TCS-EL04",
+      "specs": [
+        ["Familia", "Electrónica y componentes de control."],
+        ["Uso", "Tableros, mandos y sistemas electrónicos de maquinaria."],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/servicios/tecas/0": {
+      "title": "Reparación de tableros eléctricos",
+      "image": "assets/p32-0.webp",
+      "description": "Servicio de reparación de tableros eléctricos orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Equipo atendido", "Tableros eléctricos"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/servicios/tecas/1": {
+      "title": "Reparación de equipos Putzmeister",
+      "image": "assets/p32-1.webp",
+      "description": "Servicio de reparación de equipos putzmeister orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Equipo atendido", "Equipos Putzmeister"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/servicios/tecas/2": {
+      "title": "Reparación de equipos Alpha 20 / Alpha 30",
+      "image": "assets/p32-2.webp",
+      "description": "Servicio de reparación de equipos alpha 20 / alpha 30 orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Equipo atendido", "Equipos Alpha 20 / Alpha 30"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/servicios/tecas/3": {
+      "title": "Reparación de control remoto IMET",
+      "image": "assets/p32-3.webp",
+      "description": "Servicio de reparación de control remoto imet orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Equipo atendido", "Control remoto IMET"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/servicios/tecas/4": {
+      "title": "Reparación de control remoto Hetronic",
+      "image": "assets/p32-4.webp",
+      "description": "Servicio de reparación de control remoto hetronic orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Equipo atendido", "Control remoto Hetronic"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/tecas/0": {
+      "title": "Robot Shotcrete Alpha 20",
+      "image": "assets/p5-1.webp",
+      "description": "Soluciones de control, electrónica y repuestos para equipos de proyección de concreto. Orientadas al mantenimiento de los sistemas que intervienen en la operación de la máquina.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Aplicación", "Robot Shotcrete Alpha 20"],
+        [
+          "Solución de control",
+          "Componentes, electrónica y sistemas de mando para la operación del equipo."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/tecas/1": {
+      "title": "Grúas pórtico",
+      "image": "assets/p5-2.webp",
+      "description": "Soluciones para el mando de equipos de elevación y traslado de cargas en patios, almacenes y áreas industriales.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Aplicación", "Grúas pórtico"],
+        [
+          "Solución de control",
+          "Componentes, electrónica y sistemas de mando para la operación del equipo."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/tecas/2": {
+      "title": "Camión grúa",
+      "image": "assets/p5-4.webp",
+      "description": "Control y componentes para los movimientos de elevación y posicionamiento de la grúa instalada sobre el vehículo.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Aplicación", "Camión grúa"],
+        [
+          "Solución de control",
+          "Componentes, electrónica y sistemas de mando para la operación del equipo."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/tecas/3": {
+      "title": "Radiocontroles Hetronic",
+      "image": "assets/p5-3.webp",
+      "description": "Componentes y soporte para sistemas de radiocontrol Hetronic utilizados en el mando de maquinaria industrial.",
+      "eyebrow": "TECAS",
+      "specs": [
+        ["Aplicación", "Radiocontroles Hetronic"],
+        [
+          "Solución de control",
+          "Componentes, electrónica y sistemas de mando para la operación del equipo."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/productos/dch/0": {
+      "title": "Transmisor de mano",
+      "image": "assets/p25-0.webp",
+      "description": "Transmisor de mano para el mando remoto de maquinaria industrial. Su formato permite reunir las funciones de operación en una botonera de uso directo.",
+      "eyebrow": "DCH · DCH-H31",
+      "specs": [
+        ["Tipo de mando", "Transmisor de mano."],
+        ["Operación", "Funciones de mando configuradas según la aplicación."],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/dch/1": {
+      "title": "Transmisor con correa para el hombro",
+      "image": "assets/p25-1.webp",
+      "description": "Transmisor con correa para el hombro para tareas de control remoto industrial. Su formato permite llevar el equipo durante la operación y disponer los mandos de acuerdo con la maquinaria.",
+      "eyebrow": "DCH · DCH-S22",
+      "specs": [
+        ["Tipo de mando", "Transmisor con correa para el hombro."],
+        [
+          "Operación",
+          "Distribución de controles según los movimientos y funciones del equipo."
+        ],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/dch/2": {
+      "title": "Transmisor de pantalla con correa para el hombro",
+      "image": "assets/p25-2.webp",
+      "description": "Transmisor con pantalla y correa para el hombro que reúne el mando del equipo y la visualización de información de operación en un mismo dispositivo.",
+      "eyebrow": "DCH · DCH-S23",
+      "specs": [
+        ["Tipo de mando", "Transmisor con pantalla."],
+        [
+          "Visualización",
+          "Información disponible según la configuración del sistema."
+        ],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/dch/3": {
+      "title": "Receptor de salida de relé",
+      "image": "assets/p25-3.webp",
+      "description": "Receptor que vincula las órdenes del transmisor con el sistema eléctrico de la maquinaria mediante salidas de relé. Se integra al circuito de control de acuerdo con las funciones del equipo.",
+      "eyebrow": "DCH · DCH-R10",
+      "specs": [
+        ["Tipo de interfaz", "Salidas de relé."],
+        [
+          "Integración",
+          "Conexión al sistema eléctrico de mando de la maquinaria."
+        ],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/dch/4": {
+      "title": "Receptor de protocolo de bus",
+      "image": "assets/p25-4.webp",
+      "description": "Receptor para integrar el radiocontrol con el sistema de comunicación de la maquinaria. La interfaz se selecciona según el protocolo y la arquitectura de control del equipo.",
+      "eyebrow": "DCH · DCH-R11",
+      "specs": [
+        ["Tipo de interfaz", "Comunicación mediante protocolo de bus."],
+        [
+          "Integración",
+          "Intercambio de órdenes con el sistema de control de la maquinaria."
+        ],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/productos/dch/5": {
+      "title": "Piezas de repuesto",
+      "image": "assets/p25-5.webp",
+      "description": "Piezas de repuesto y accesorios para el mantenimiento de los sistemas de radiocontrol. La selección considera el modelo del transmisor o receptor y la referencia del componente.",
+      "eyebrow": "DCH · DCH-P01",
+      "specs": [
+        ["Familia", "Repuestos y accesorios de radiocontrol."],
+        ["Uso", "Reposición y mantenimiento del sistema de mando."],
+        [
+          "Selección del componente",
+          "Se considera la marca, el modelo, la referencia y las funciones requeridas por la maquinaria."
+        ],
+        [
+          "Compatibilidad",
+          "La configuración se define según el sistema de control y las conexiones del equipo."
+        ],
+        [
+          "Soporte",
+          "Orientación para identificar el componente y su integración en la aplicación."
+        ]
+      ]
+    },
+    "detalle/servicios/dch/0": {
+      "title": "Mantenimiento y reparación de maquinarias pesadas",
+      "image": "assets/p34-1.webp",
+      "description": "Servicio de mantenimiento y reparación de maquinarias pesadas orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Equipo atendido", "Maquinarias pesadas"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/servicios/dch/1": {
+      "title": "Mantenimiento de radiocontroles remoto de maquinaria pesada",
+      "image": "assets/p34-2.webp",
+      "description": "Servicio de mantenimiento de radiocontroles remoto de maquinaria pesada orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Equipo atendido", "Radiocontroles remoto de maquinaria pesada"],
+        [
+          "Diagnóstico",
+          "Revisión de componentes, conexiones y funcionamiento para identificar el origen de la incidencia."
+        ],
+        [
+          "Intervención",
+          "Definición de los trabajos de reparación o mantenimiento y de los repuestos necesarios según el diagnóstico."
+        ],
+        [
+          "Verificación",
+          "Comprobación de las funciones intervenidas y revisión de la respuesta del sistema."
+        ],
+        [
+          "Para solicitar atención",
+          "Indica la marca, el modelo y la falla observada. Las fotografías del equipo y de su placa ayudan a identificarlo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/0": {
+      "title": "Grúa monorraíl",
+      "image": "assets/p11-0.webp",
+      "description": "Radiocontrol para operaciones de elevación y desplazamiento de cargas sobre una trayectoria de monorraíl.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa monorraíl"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/1": {
+      "title": "Grúa polipasto CD",
+      "image": "assets/p11-1.webp",
+      "description": "Control remoto para las funciones de elevación y traslado de equipos con polipasto CD.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa polipasto CD"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/2": {
+      "title": "Grúa de polipasto MD",
+      "image": "assets/p11-2.webp",
+      "description": "Sistemas de mando para la elevación y el posicionamiento de cargas en equipos con polipasto MD.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa de polipasto MD"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/3": {
+      "title": "Grúa de doble viga",
+      "image": "assets/p11-3.webp",
+      "description": "Mando remoto para coordinar las funciones de elevación y desplazamiento en grúas de doble viga.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa de doble viga"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/4": {
+      "title": "Grúa de gran tonelaje",
+      "image": "assets/p11-4.webp",
+      "description": "Soluciones de radiocontrol para el mando de equipos destinados a la manipulación de cargas de gran tonelaje.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa de gran tonelaje"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/5": {
+      "title": "Grúa inteligente",
+      "image": "assets/p11-5.webp",
+      "description": "Integración del mando remoto con los sistemas de control de grúas y sus funciones de operación.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Grúa inteligente"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/6": {
+      "title": "Vehículos especiales",
+      "image": "assets/p11-6.webp",
+      "description": "Sistemas de control para las funciones de trabajo de vehículos especiales, adaptados a la tarea y al equipo instalado.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Vehículos especiales"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/7": {
+      "title": "Equipos eléctricos",
+      "image": "assets/p11-7.webp",
+      "description": "Soluciones de radiocontrol para accionar funciones de maquinaria y equipos con sistemas eléctricos de mando.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Equipos eléctricos"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/8": {
+      "title": "Maquinaria para túneles",
+      "image": "assets/p11-8.webp",
+      "description": "Control remoto para las funciones de equipos que trabajan en túneles y operaciones subterráneas.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Maquinaria para túneles"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/9": {
+      "title": "Bomba de hormigón",
+      "image": "assets/p11-9.webp",
+      "description": "Mando remoto para las funciones de bombeo y posicionamiento de equipos utilizados en la colocación de hormigón.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Bomba de hormigón"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/10": {
+      "title": "Bomba de remolque",
+      "image": "assets/p12-0.webp",
+      "description": "Soluciones de mando para las funciones de trabajo de bombas montadas sobre remolque.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Bomba de remolque"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/11": {
+      "title": "Carro de pulverización húmeda",
+      "image": "assets/p12-1.webp",
+      "description": "Sistemas de radiocontrol para equipos de pulverización húmeda y proyección de concreto.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Carro de pulverización húmeda"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/12": {
+      "title": "Maquinaria agrícola",
+      "image": "assets/p12-2.webp",
+      "description": "Control remoto para las funciones de trabajo de equipos agrícolas, según el implemento y la operación.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Maquinaria agrícola"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/13": {
+      "title": "Vehículos de ingeniería",
+      "image": "assets/p12-3.webp",
+      "description": "Sistemas de mando para vehículos y equipos utilizados en trabajos de construcción e ingeniería.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Vehículos de ingeniería"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/14": {
+      "title": "Extinción de incendios municipal",
+      "image": "assets/p12-4.webp",
+      "description": "Soluciones de control para las funciones de equipos de intervención y extinción de incendios.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Extinción de incendios municipal"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/15": {
+      "title": "Maquinaria portuaria",
+      "image": "assets/p12-5.webp",
+      "description": "Mando remoto para equipos de manipulación y movimiento de cargas en operaciones portuarias.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Maquinaria portuaria"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    },
+    "detalle/aplicaciones/dch/16": {
+      "title": "Otros equipos",
+      "image": "assets/p12-6.webp",
+      "description": "Integración de radiocontrol en maquinaria que requiere accionar funciones a distancia, de acuerdo con su sistema de mando.",
+      "eyebrow": "DCH",
+      "specs": [
+        ["Aplicación", "Otros equipos"],
+        [
+          "Solución de control",
+          "Radiocontrol para accionar las funciones de trabajo de la maquinaria."
+        ],
+        [
+          "Configuración",
+          "Selección de mandos y conexiones según los movimientos, señales y funciones requeridos."
+        ],
+        [
+          "Integración",
+          "Revisión del sistema eléctrico y de control para definir los componentes adecuados."
+        ],
+        [
+          "Mantenimiento y soporte",
+          "Diagnóstico, reparación y selección de repuestos de acuerdo con las necesidades del equipo."
+        ]
+      ]
+    }
+  }
+}
