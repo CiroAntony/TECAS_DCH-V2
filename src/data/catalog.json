@@ -22,7 +22,7 @@
       "image": "p22"
     },
     "dch": {
-      "name": "DCH Radiocontrol",
+      "name": "DCH Radio control",
       "title": "Radiocontroles",
       "intro": "Sistemas de control remoto para operar maquinaria con precisión y seguridad.",
       "categories": [
@@ -661,7 +661,7 @@
       "title": "Transmisor de mano",
       "image": "assets/p25-0.webp",
       "description": "Transmisor de mano para el mando remoto de maquinaria industrial. Su formato permite reunir las funciones de operación en una botonera de uso directo.",
-      "eyebrow": "DCH Radiocontrol · DCH-H31",
+      "eyebrow": "DCH Radio control · DCH-H31",
       "specs": [
         [
           "Tipo de mando",
@@ -689,7 +689,7 @@
       "title": "Transmisor con correa para el hombro",
       "image": "assets/p25-1.webp",
       "description": "Transmisor con correa para el hombro para tareas de control remoto industrial. Su formato permite llevar el equipo durante la operación y disponer los mandos de acuerdo con la maquinaria.",
-      "eyebrow": "DCH Radiocontrol · DCH-S22",
+      "eyebrow": "DCH Radio control · DCH-S22",
       "specs": [
         [
           "Tipo de mando",
@@ -717,7 +717,7 @@
       "title": "Transmisor de pantalla con correa para el hombro",
       "image": "assets/p25-2.webp",
       "description": "Transmisor con pantalla y correa para el hombro que reúne el mando del equipo y la visualización de información de operación en un mismo dispositivo.",
-      "eyebrow": "DCH Radiocontrol · DCH-S23",
+      "eyebrow": "DCH Radio control · DCH-S23",
       "specs": [
         [
           "Tipo de mando",
@@ -745,7 +745,7 @@
       "title": "Receptor de salida de relé",
       "image": "assets/p25-3.webp",
       "description": "Receptor que vincula las órdenes del transmisor con el sistema eléctrico de la maquinaria mediante salidas de relé. Se integra al circuito de control de acuerdo con las funciones del equipo.",
-      "eyebrow": "DCH Radiocontrol · DCH-R10",
+      "eyebrow": "DCH Radio control · DCH-R10",
       "specs": [
         [
           "Tipo de interfaz",
@@ -773,7 +773,7 @@
       "title": "Receptor de protocolo de bus",
       "image": "assets/p25-4.webp",
       "description": "Receptor para integrar el radiocontrol con el sistema de comunicación de la maquinaria. La interfaz se selecciona según el protocolo y la arquitectura de control del equipo.",
-      "eyebrow": "DCH Radiocontrol · DCH-R11",
+      "eyebrow": "DCH Radio control · DCH-R11",
       "specs": [
         [
           "Tipo de interfaz",
@@ -801,7 +801,7 @@
       "title": "Piezas de repuesto",
       "image": "assets/p25-5.webp",
       "description": "Piezas de repuesto y accesorios para el mantenimiento de los sistemas de radiocontrol. La selección considera el modelo del transmisor o receptor y la referencia del componente.",
-      "eyebrow": "DCH Radiocontrol · DCH-P01",
+      "eyebrow": "DCH Radio control · DCH-P01",
       "specs": [
         [
           "Familia",
@@ -829,7 +829,7 @@
       "title": "Mantenimiento y reparación de maquinarias pesadas",
       "image": "assets/p34-1.webp",
       "description": "Servicio de mantenimiento y reparación de maquinarias pesadas orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Equipo atendido",
@@ -857,7 +857,7 @@
       "title": "Mantenimiento de radiocontroles remoto de maquinaria pesada",
       "image": "assets/p34-2.webp",
       "description": "Servicio de mantenimiento de radiocontroles remoto de maquinaria pesada orientado a recuperar y conservar la operatividad del equipo. La atención parte de la revisión del sistema y de las condiciones de funcionamiento reportadas.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Equipo atendido",
@@ -885,7 +885,7 @@
       "title": "Grúa monorraíl",
       "image": "assets/p11-0.webp",
       "description": "Radiocontrol para operaciones de elevación y desplazamiento de cargas sobre una trayectoria de monorraíl.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -913,7 +913,7 @@
       "title": "Grúa polipasto CD",
       "image": "assets/p11-1.webp",
       "description": "Control remoto para las funciones de elevación y traslado de equipos con polipasto CD.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -941,7 +941,7 @@
       "title": "Grúa de polipasto MD",
       "image": "assets/p11-2.webp",
       "description": "Sistemas de mando para la elevación y el posicionamiento de cargas en equipos con polipasto MD.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -969,7 +969,7 @@
       "title": "Grúa de doble viga",
       "image": "assets/p11-3.webp",
       "description": "Mando remoto para coordinar las funciones de elevación y desplazamiento en grúas de doble viga.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -997,7 +997,7 @@
       "title": "Grúa de gran tonelaje",
       "image": "assets/p11-4.webp",
       "description": "Soluciones de radiocontrol para el mando de equipos destinados a la manipulación de cargas de gran tonelaje.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1025,7 +1025,7 @@
       "title": "Grúa inteligente",
       "image": "assets/p11-5.webp",
       "description": "Integración del mando remoto con los sistemas de control de grúas y sus funciones de operación.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1053,7 +1053,7 @@
       "title": "Vehículos especiales",
       "image": "assets/p11-6.webp",
       "description": "Sistemas de control para las funciones de trabajo de vehículos especiales, adaptados a la tarea y al equipo instalado.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1081,7 +1081,7 @@
       "title": "Equipos eléctricos",
       "image": "assets/p11-7.webp",
       "description": "Soluciones de radiocontrol para accionar funciones de maquinaria y equipos con sistemas eléctricos de mando.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1109,7 +1109,7 @@
       "title": "Maquinaria para túneles",
       "image": "assets/p11-8.webp",
       "description": "Control remoto para las funciones de equipos que trabajan en túneles y operaciones subterráneas.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1137,7 +1137,7 @@
       "title": "Bomba de hormigón",
       "image": "assets/p11-9.webp",
       "description": "Mando remoto para las funciones de bombeo y posicionamiento de equipos utilizados en la colocación de hormigón.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1165,7 +1165,7 @@
       "title": "Bomba de remolque",
       "image": "assets/p12-0.webp",
       "description": "Soluciones de mando para las funciones de trabajo de bombas montadas sobre remolque.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1193,7 +1193,7 @@
       "title": "Carro de pulverización húmeda",
       "image": "assets/p12-1.webp",
       "description": "Sistemas de radiocontrol para equipos de pulverización húmeda y proyección de concreto.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1221,7 +1221,7 @@
       "title": "Maquinaria agrícola",
       "image": "assets/p12-2.webp",
       "description": "Control remoto para las funciones de trabajo de equipos agrícolas, según el implemento y la operación.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1249,7 +1249,7 @@
       "title": "Vehículos de ingeniería",
       "image": "assets/p12-3.webp",
       "description": "Sistemas de mando para vehículos y equipos utilizados en trabajos de construcción e ingeniería.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1277,7 +1277,7 @@
       "title": "Extinción de incendios municipal",
       "image": "assets/p12-4.webp",
       "description": "Soluciones de control para las funciones de equipos de intervención y extinción de incendios.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1305,7 +1305,7 @@
       "title": "Maquinaria portuaria",
       "image": "assets/p12-5.webp",
       "description": "Mando remoto para equipos de manipulación y movimiento de cargas en operaciones portuarias.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",
@@ -1333,7 +1333,7 @@
       "title": "Otros equipos",
       "image": "assets/p12-6.webp",
       "description": "Integración de radiocontrol en maquinaria que requiere accionar funciones a distancia, de acuerdo con su sistema de mando.",
-      "eyebrow": "DCH Radiocontrol",
+      "eyebrow": "DCH Radio control",
       "specs": [
         [
           "Aplicación",

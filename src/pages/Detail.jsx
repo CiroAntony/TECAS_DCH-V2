@@ -19,7 +19,7 @@ export default function Detail() {
     ? state.returnTo
     : fallback;
   useEffect(() => {
-    if (item) document.title = `${item.title} | TECAS Maquinarias · DCH Radiocontrol`;
+    if (item) document.title = `${item.title} | TECAS Maquinarias · DCH Radio control`;
   }, [item]);
   if (!item)
     return (

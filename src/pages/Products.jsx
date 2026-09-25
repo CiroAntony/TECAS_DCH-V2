@@ -28,9 +28,9 @@ function BrandChoice() {
           <span>Ver TECAS Maquinarias →</span>
         </Link>
         <Link to="/productos/dch">
-          <h2>DCH Radiocontrol</h2>
+          <h2>DCH Radio control</h2>
           <p>Control remoto para maquinaria industrial</p>
-          <span>Ver DCH Radiocontrol →</span>
+          <span>Ver DCH Radio control →</span>
         </Link>
       </div>
     </section>

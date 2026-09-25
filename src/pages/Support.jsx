@@ -10,7 +10,7 @@ export default function Support() {
         </h1>
         <p>
           {
-            "Un mismo equipo técnico atiende tanto los sistemas de DCH Radiocontrol como los repuestos y tableros de TECAS Maquinarias."
+            "Un mismo equipo técnico atiende tanto los sistemas de DCH Radio control como los repuestos y tableros de TECAS Maquinarias."
           }
         </p>
         <div className="support-tags">

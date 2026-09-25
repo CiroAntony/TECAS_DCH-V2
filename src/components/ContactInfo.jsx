@@ -11,8 +11,8 @@ export default function ContactInfo() {
         }
       </p>
       <div className="contact-block">
-        <h3>{"DCH Radiocontrol"}</h3>
-        <strong>{"DCH Radiocontrol"}</strong>
+        <h3>{"DCH Radio control"}</h3>
+        <strong>{"DCH Radio control"}</strong>
         <br />
         {"Tel.: 021-67629680 / 9681 / 9682"}
         <br />

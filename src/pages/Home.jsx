@@ -6,10 +6,10 @@ export default function Home() {
       <h1>{"Control y soluciones para tu maquinaria pesada"}</h1>
       <p>
         {
-          "Una sola puerta de entrada a dos especialidades: sistemas de DCH Radiocontrol para operar el equipo, y repuestos y componentes de TECAS Maquinarias para mantenerlo funcionando."
+          "Una sola puerta de entrada a dos especialidades: sistemas de DCH Radio control para operar el equipo, y repuestos y componentes de TECAS Maquinarias para mantenerlo funcionando."
         }
       </p>
-      <div className="brand-cards unified-brands" aria-label="TECAS Maquinarias y DCH Radiocontrol">
+      <div className="brand-cards unified-brands" aria-label="TECAS Maquinarias y DCH Radio control">
         <article className="brand-card">
           <div className="brand-logo">
             <img
@@ -38,10 +38,10 @@ export default function Home() {
         </article>
         <article className="brand-card">
           <div className="brand-logo">
-            <img className="" src="assets/p2-2.webp" alt="DCH Radiocontrol" loading="lazy" />
+            <img className="" src="assets/p2-2.webp" alt="DCH Radio control" loading="lazy" />
           </div>
           <div className="brand-copy">
-            <div className="eyebrow">{"DCH Radiocontrol"}</div>
+            <div className="eyebrow">{"DCH Radio control"}</div>
             <h2>
               {"Control remoto para"}
               <br />
