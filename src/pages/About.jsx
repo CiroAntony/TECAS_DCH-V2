@@ -1,3 +1,4 @@
+import { brands as brandLabels } from "../catalog.js";
 import { Navigate, useParams } from "react-router-dom";
 import BrandSwitch from "../components/BrandSwitch.jsx";
 import AboutTecas from "../components/AboutTecas.jsx";
@@ -10,7 +11,7 @@ export default function About() {
   return (
     <section className={`wrap ${brand}`}>
       <div className="section-head">
-        <p className="eyebrow">Nosotros · {brand.toUpperCase()}</p>
+        <p className="eyebrow">Nosotros · {brandLabels[brand].name}</p>
         <BrandSwitch section="nosotros" brand={brand} />
       </div>
       {brand === "tecas" ? <AboutTecas /> : <AboutDch />}

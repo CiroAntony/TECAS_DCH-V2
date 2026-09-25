@@ -1,3 +1,4 @@
+import { brands as brandLabels } from "../catalog.js";
 import { Navigate, useParams, useSearchParams } from "react-router-dom";
 import BrandSwitch from "../components/BrandSwitch.jsx";
 import DetailCard from "../components/DetailCard.jsx";
@@ -22,7 +23,7 @@ export default function Applications() {
           <p className="eyebrow">Aplicaciones</p>
           <h1>
             Solución por cada tipo de operación{" "}
-            <span className="accent">— {brand.toUpperCase()}</span>
+            <span className="accent">— {brandLabels[brand].name}</span>
           </h1>
         </div>
         <BrandSwitch section="aplicaciones" brand={brand} />

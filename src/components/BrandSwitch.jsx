@@ -1,3 +1,4 @@
+import { brands as brandLabels } from "../catalog.js";
 import { Link } from "react-router-dom";
 
 export default function BrandSwitch({ section, brand }) {
@@ -10,7 +11,7 @@ export default function BrandSwitch({ section, brand }) {
           className={brand === value ? "active" : ""}
           aria-current={brand === value ? "page" : undefined}
         >
-          {value.toUpperCase()}
+          {brandLabels[value].name}
         </Link>
       ))}
     </nav>

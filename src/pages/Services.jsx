@@ -1,3 +1,4 @@
+import { brands as brandLabels } from "../catalog.js";
 import { Navigate, useParams } from "react-router-dom";
 import BrandSwitch from "../components/BrandSwitch.jsx";
 import DetailCard from "../components/DetailCard.jsx";
@@ -14,7 +15,7 @@ export default function Services() {
           <p className="eyebrow">Servicios</p>
           <h1>
             Mantenemos tu operación en movimiento.{" "}
-            <span className="accent">— {brand.toUpperCase()}</span>
+            <span className="accent">— {brandLabels[brand].name}</span>
           </h1>
         </div>
         <BrandSwitch section="servicios" brand={brand} />

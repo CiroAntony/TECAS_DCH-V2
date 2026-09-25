@@ -27,7 +27,7 @@ export default function App() {
   useEffect(() => {
     const section = location.pathname.split("/")[1] || "inicio";
     if (section !== "detalle")
-      document.title = `${section.charAt(0).toUpperCase() + section.slice(1)} | TECAS · DCH`;
+      document.title = `${section.charAt(0).toUpperCase() + section.slice(1)} | TECAS Maquinarias · DCH Radiocontrol`;
   }, [location.pathname]);
   return (
     <Routes>

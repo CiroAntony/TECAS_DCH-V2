@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, NavLink, Outlet, useLocation } from "react-router-dom";
 
+import Wordmark from "./Wordmark.jsx";
+
 const links = [
   ["/inicio", "Inicio"],
   ["/nosotros", "Nosotros"],
@@ -44,9 +46,7 @@ export default function Layout() {
         Saltar al contenido
       </a>
       <header>
-        <Link className="wordmark" to="/inicio" aria-label="TECAS DCH, inicio">
-          TECAS <span>·</span> <b>DCH</b>
-        </Link>
+        <Wordmark />
         <button
           ref={menu}
           className="menu-toggle"
@@ -76,9 +76,7 @@ export default function Layout() {
         <Outlet />
       </main>
       <footer>
-        <Link className="wordmark" to="/inicio">
-          TECAS <span>·</span> <b>DCH</b>
-        </Link>
+        <Wordmark />
         <span>Maquinaria, componentes y radiocontrol industrial.</span>
         <Link to="/contacto">Lima, Perú · Contacto</Link>
       </footer>
@@ -87,7 +85,7 @@ export default function Layout() {
         href="https://wa.me/51949988111"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Contactar a TECAS por WhatsApp"
+        aria-label="Contactar a TECAS Maquinarias por WhatsApp"
       >
         <img src="assets/p5-0.webp" alt="WhatsApp" />
       </a>

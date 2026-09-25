@@ -45,3 +45,34 @@ main:focus {
 .result-heading:focus {
   outline: none;
 }
+
+/* Shared brand identity and a single surface for the two home options. */
+.full-wordmark { display: inline-flex; align-items: center; gap: 16px; flex-shrink: 0; letter-spacing: -.04em; }
+.full-wordmark .wordmark-brand { display: flex; flex-direction: column; gap: 3px; color: inherit; }
+.full-wordmark strong { font-size: 24px; line-height: 1; font-weight: 750; }
+.full-wordmark small { color: inherit; font-size: 14px; line-height: 1.25; font-weight: 500; letter-spacing: 0; }
+.full-wordmark .wordmark-dch strong { color: var(--orange); }
+.full-wordmark .wordmark-divider { width: 1px; height: 36px; background: currentColor; opacity: .25; }
+.unified-brands { gap: 0; background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 14px; overflow: hidden; box-shadow: 0 8px 30px #0d223205; }
+.unified-brands .brand-card { border: 0; border-radius: 0; background: transparent; box-shadow: none; }
+.unified-brands .brand-card:hover { transform: none; box-shadow: none; }
+.unified-brands .brand-card + .brand-card { border-left: 1px solid var(--line); }
+.unified-brands .brand-logo { background: transparent; border: 0; }
+.switch { max-width: 100%; }
+.switch a { white-space: nowrap; padding: 10px 16px; }
+.catalog-choice h2 { font-size: clamp(28px,3.2vw,42px); }
+@media (min-width: 761px) and (max-width: 1050px) {
+  header { flex-wrap: wrap; }
+  header > nav { width: 100%; justify-content: space-between; gap: 12px; }
+  .section-head { flex-wrap: wrap; }
+}
+@media (max-width: 760px) {
+  .full-wordmark { gap: 10px; }
+  .full-wordmark strong { font-size: 21px; }
+  .full-wordmark small { font-size: 13px; }
+  header { gap: 12px; }
+  .menu-toggle { padding: 7px 9px; }
+  .unified-brands { padding: 6px; gap: 0; }
+  .unified-brands .brand-card + .brand-card { border-left: 0; border-top: 1px solid var(--line); }
+  .switch a { padding: 10px 12px; font-size: 14px; white-space: normal; }
+}

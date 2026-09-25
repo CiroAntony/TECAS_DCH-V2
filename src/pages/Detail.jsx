@@ -1,3 +1,4 @@
+import { brands as brandLabels } from "../catalog.js";
 import { useEffect } from "react";
 import { Link, useLocation, useParams } from "react-router-dom";
 import { details } from "../catalog.js";
@@ -18,7 +19,7 @@ export default function Detail() {
     ? state.returnTo
     : fallback;
   useEffect(() => {
-    if (item) document.title = `${item.title} | TECAS · DCH`;
+    if (item) document.title = `${item.title} | TECAS Maquinarias · DCH Radiocontrol`;
   }, [item]);
   if (!item)
     return (
@@ -38,7 +39,7 @@ export default function Detail() {
           <Link to={returnTo}>
             {label.charAt(0).toUpperCase() + label.slice(1)}
           </Link>{" "}
-          / {brand.toUpperCase()}
+          / {brandLabels[brand].name}
         </nav>
       </div>
       <div className="detail">

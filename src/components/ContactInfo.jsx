@@ -11,8 +11,8 @@ export default function ContactInfo() {
         }
       </p>
       <div className="contact-block">
-        <h3>{"DCH"}</h3>
-        <strong>{"DCH RADIO LIMITED COMPANY"}</strong>
+        <h3>{"DCH Radiocontrol"}</h3>
+        <strong>{"DCH Radiocontrol"}</strong>
         <br />
         {"Tel.: 021-67629680 / 9681 / 9682"}
         <br />
@@ -21,8 +21,8 @@ export default function ContactInfo() {
         <a href="mailto:Allen.xu@dch-radio.com">{"Allen.xu@dch-radio.com"}</a>
       </div>
       <div className="contact-block">
-        <h3>{"TECAS"}</h3>
-        <strong>{"TECAS MAQUINARIAS S.A.C."}</strong>
+        <h3>{"TECAS Maquinarias"}</h3>
+        <strong>{"TECAS Maquinarias S.A.C."}</strong>
         <br />
         <a href="tel:+51949988111">{"Teléfono móvil: (+51) 949 988 111"}</a>
         <br />

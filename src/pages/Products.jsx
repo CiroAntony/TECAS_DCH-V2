@@ -23,14 +23,14 @@ function BrandChoice() {
       <h1>Dos catálogos, un solo lugar</h1>
       <div className="catalog-choice">
         <Link to="/productos/tecas">
-          <h2>TECAS</h2>
+          <h2>TECAS Maquinarias</h2>
           <p>Componentes y electrónica para tus equipos</p>
-          <span>Ver TECAS →</span>
+          <span>Ver TECAS Maquinarias →</span>
         </Link>
         <Link to="/productos/dch">
-          <h2>DCH</h2>
+          <h2>DCH Radiocontrol</h2>
           <p>Control remoto para maquinaria industrial</p>
-          <span>Ver DCH →</span>
+          <span>Ver DCH Radiocontrol →</span>
         </Link>
       </div>
     </section>

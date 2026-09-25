@@ -4,7 +4,7 @@ export default function AboutDch() {
   return (
     <div className="about">
       <aside className="about-aside">
-        <h1>{"DCH"}</h1>
+        <h1>{"DCH Radiocontrol"}</h1>
         <p>
           {
             "Radiocontrol y tecnología para maquinaria. Sistemas de radiocontrol industrial con soporte técnico especializado en controles y tableros."

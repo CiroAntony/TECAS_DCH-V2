@@ -4,7 +4,7 @@ export default function AboutTecas() {
   return (
     <div className="about">
       <aside className="about-aside">
-        <h1>{"TECAS MAQUINARIAS S.A.C."}</h1>
+        <h1>{"TECAS Maquinarias S.A.C."}</h1>
         <p>
           {
             "Empresa peruana dedicada a la importación, comercialización y venta de servicios para Minería, Energía y Construcción, con amplio stock de repuestos."
