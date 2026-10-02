@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 export default function ContactInfo() {
   return (
     <div>
@@ -10,16 +8,6 @@ export default function ContactInfo() {
           "Escríbenos y te ayudamos a identificar el radiocontrol o repuesto correcto para tu equipo."
         }
       </p>
-      <div className="contact-block">
-        <h3>{"DCH Radio control"}</h3>
-        <strong>{"DCH Radio control"}</strong>
-        <br />
-        {"Tel.: 021-67629680 / 9681 / 9682"}
-        <br />
-        {"Teléfono móvil: 18117350677"}
-        <br />
-        <a href="mailto:Allen.xu@dch-radio.com">{"Allen.xu@dch-radio.com"}</a>
-      </div>
       <div className="contact-block">
         <h3>{"TECAS Maquinarias"}</h3>
         <strong>{"TECAS Maquinarias S.A.C."}</strong>
