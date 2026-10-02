@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "dch-h21",
+    "categoryIndex": 0,
+    "code": "DCH-H21",
+    "title": "DCH-H21 — 4 botones de velocidad única",
+    "name": "DCH-H21",
+    "description": "Transmisor portátil industrial de 4 botones de una velocidad, con reinicio automático. Mide 120 × 60 × 35 mm y pesa 220 g. Protección IP65, parada de emergencia conforme a EN 13849-1, batería de 2 pilas AA y autonomía de hasta 400 h/50 días. Alcance aproximado de 100 m; receptor R10.",
+    "sourceDescription": "Transmisor portátil industrial de 4 botones de una velocidad, con reinicio automático. Mide 120 × 60 × 35 mm y pesa 220 g. Protección IP65, parada de emergencia conforme a EN 13849-1, batería de 2 pilas AA y autonomía de hasta 400 h/50 días. Alcance aproximado de 100 m; receptor R10.",
+    "image": "assets/dch/dch-h21.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H21"
+      ],
+      [
+        "Configuración",
+        "4 botones de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "120 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=63"
+  },
+  {
+    "id": "dch-h22",
+    "categoryIndex": 0,
+    "code": "DCH-H22",
+    "title": "DCH-H22 — 4 botones de doble velocidad",
+    "name": "DCH-H22",
+    "description": "Transmisor industrial de 4 botones de doble velocidad, 120 × 60 × 35 mm y 220 g. Carcasa PA6 + 30 % de fibra de vidrio con cubierta de goma, IP65, parada de emergencia EN 13849-1 y 2 pilas AA. Alcance aproximado de 100 m; receptor R10.",
+    "sourceDescription": "Transmisor industrial de 4 botones de doble velocidad, 120 × 60 × 35 mm y 220 g. Carcasa PA6 + 30 % de fibra de vidrio con cubierta de goma, IP65, parada de emergencia EN 13849-1 y 2 pilas AA. Alcance aproximado de 100 m; receptor R10.",
+    "image": "assets/dch/dch-h22.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H22"
+      ],
+      [
+        "Configuración",
+        "4 botones de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "120 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=64"
+  },
+  {
+    "id": "dch-h31",
+    "categoryIndex": 0,
+    "code": "DCH-H31",
+    "title": "DCH-H31 — 8 botones de velocidad única",
+    "name": "DCH-H31",
+    "description": "Transmisor portátil de 8 botones de una velocidad, 180 × 60 × 35 mm y 350 g. Grado IP65, parada de emergencia EN 13849-1, antena interna y 2 pilas AA. Ofrece hasta 400 h/50 días de uso, alcance aprox. de 100 m y receptor R15.",
+    "sourceDescription": "Transmisor portátil de 8 botones de una velocidad, 180 × 60 × 35 mm y 350 g. Grado IP65, parada de emergencia EN 13849-1, antena interna y 2 pilas AA. Ofrece hasta 400 h/50 días de uso, alcance aprox. de 100 m y receptor R15.",
+    "image": "assets/dch/dch-h31.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H31"
+      ],
+      [
+        "Configuración",
+        "8 botones de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "180 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=59"
+  },
+  {
+    "id": "dch-h32",
+    "categoryIndex": 0,
+    "code": "DCH-H32",
+    "title": "DCH-H32 — 8 botones de doble velocidad",
+    "name": "DCH-H32",
+    "description": "Transmisor de 8 botones de doble velocidad, 180 × 60 × 35 mm y 350 g. Tiene carcasa reforzada con cubierta de goma, IP65, parada de emergencia EN 13849-1, 2 pilas AA y receptor R15. Alcance aproximado: 100 m.",
+    "sourceDescription": "Transmisor de 8 botones de doble velocidad, 180 × 60 × 35 mm y 350 g. Tiene carcasa reforzada con cubierta de goma, IP65, parada de emergencia EN 13849-1, 2 pilas AA y receptor R15. Alcance aproximado: 100 m.",
+    "image": "assets/dch/dch-h32.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H32"
+      ],
+      [
+        "Configuración",
+        "8 botones de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "180 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=60"
+  },
+  {
+    "id": "dch-h41",
+    "categoryIndex": 0,
+    "code": "DCH-H41",
+    "title": "DCH-H41 — 10 botones de velocidad única",
+    "name": "DCH-H41",
+    "description": "Transmisor de 10 botones de una velocidad, 210 × 60 × 35 mm y 450 g. IP65, antena interna, parada de emergencia EN 13849-1, batería de 2 pilas AA y hasta 400 h/50 días de operación. Alcance aproximado de 100 m; receptor R15.",
+    "sourceDescription": "Transmisor de 10 botones de una velocidad, 210 × 60 × 35 mm y 450 g. IP65, antena interna, parada de emergencia EN 13849-1, batería de 2 pilas AA y hasta 400 h/50 días de operación. Alcance aproximado de 100 m; receptor R15.",
+    "image": "assets/dch/dch-h41.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H41"
+      ],
+      [
+        "Configuración",
+        "10 botones de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "210 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=65"
+  },
+  {
+    "id": "dch-h42",
+    "categoryIndex": 0,
+    "code": "DCH-H42",
+    "title": "DCH-H42 — 10 botones de doble velocidad",
+    "name": "DCH-H42",
+    "description": "Transmisor industrial de 10 botones de doble velocidad, 210 × 60 × 35 mm y 450 g. Incorpora IP65, parada de emergencia EN 13849-1, antena interna, 2 pilas AA y receptor R15. Alcance aproximado de 100 m.",
+    "sourceDescription": "Transmisor industrial de 10 botones de doble velocidad, 210 × 60 × 35 mm y 450 g. Incorpora IP65, parada de emergencia EN 13849-1, antena interna, 2 pilas AA y receptor R15. Alcance aproximado de 100 m.",
+    "image": "assets/dch/dch-h42.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H42"
+      ],
+      [
+        "Configuración",
+        "10 botones de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "210 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=66"
+  },
+  {
+    "id": "dch-h51",
+    "categoryIndex": 0,
+    "code": "DCH-H51",
+    "title": "DCH-H51 — 12 botones de velocidad única",
+    "name": "DCH-H51",
+    "description": "Transmisor de 12 botones de una velocidad, de 240 × 60 × 35 mm y 450 g. Construcción IP65 con cubierta de goma, parada de emergencia EN 13849-1, 2 pilas AA, alcance aprox. de 100 m y receptor R15.",
+    "sourceDescription": "Transmisor de 12 botones de una velocidad, de 240 × 60 × 35 mm y 450 g. Construcción IP65 con cubierta de goma, parada de emergencia EN 13849-1, 2 pilas AA, alcance aprox. de 100 m y receptor R15.",
+    "image": "assets/dch/dch-h51.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H51"
+      ],
+      [
+        "Configuración",
+        "12 botones de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "240 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=61"
+  },
+  {
+    "id": "dch-h52",
+    "categoryIndex": 0,
+    "code": "DCH-H52",
+    "title": "DCH-H52 — 12 botones de doble velocidad",
+    "name": "DCH-H52",
+    "description": "Transmisor de 12 botones de doble velocidad, 220 × 60 × 35 mm y 450 g. IP65, parada de emergencia EN 13849-1, antena interna, 2 pilas AA, autonomía de hasta 400 h/50 días, alcance aprox. de 100 m y receptor R15.",
+    "sourceDescription": "Transmisor de 12 botones de doble velocidad, 220 × 60 × 35 mm y 450 g. IP65, parada de emergencia EN 13849-1, antena interna, 2 pilas AA, autonomía de hasta 400 h/50 días, alcance aprox. de 100 m y receptor R15.",
+    "image": "assets/dch/dch-h52.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H52"
+      ],
+      [
+        "Configuración",
+        "12 botones de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "220 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=62"
+  },
+  {
+    "id": "dch-h52b",
+    "categoryIndex": 0,
+    "code": "DCH-H52B",
+    "title": "DCH-H52B — 12 botones de doble velocidad, batería recargable",
+    "name": "DCH-H52B",
+    "description": "Variante recargable de 12 botones de doble velocidad. Mide 220 × 60 × 35 mm, pesa 450 g y usa batería de ion-litio de 1.000 mAh, con autonomía de 60 h. IP65, parada de emergencia EN 13849-1, alcance aprox. de 100 m y receptor R20.",
+    "sourceDescription": "Variante recargable de 12 botones de doble velocidad. Mide 220 × 60 × 35 mm, pesa 450 g y usa batería de ion-litio de 1.000 mAh, con autonomía de 60 h. IP65, parada de emergencia EN 13849-1, alcance aprox. de 100 m y receptor R20.",
+    "image": "assets/dch/dch-h52b.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-H52B"
+      ],
+      [
+        "Configuración",
+        "12 botones de doble velocidad, batería recargable"
+      ],
+      [
+        "Dimensiones",
+        "220 × 60 × 35 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ],
+      [
+        "Frecuencia",
+        "433–434 MHz"
+      ],
+      [
+        "Tiempo de respuesta",
+        "Menos de 100 ms"
+      ],
+      [
+        "Potencia RF",
+        "10 mW (ERP)"
+      ],
+      [
+        "Temperatura de trabajo",
+        "−25 a +70 °C"
+      ],
+      [
+        "Humedad máxima",
+        "97 % sin condensación"
+      ],
+      [
+        "Vida útil de los botones",
+        "Más de 5 millones de pulsaciones"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=69"
+  },
+  {
+    "id": "dch-eh",
+    "categoryIndex": 0,
+    "code": "DCH-EH",
+    "title": "DCH-EH",
+    "name": "DCH-EH",
+    "description": "Transmisor portátil DCH-EH.",
+    "sourceDescription": "Transmisor portátil DCH-EH. El fabricante muestra una galería de producto, pero no publica especificaciones técnicas ni descripción en la ficha actual.",
+    "image": "assets/dch/dch-eh.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-EH"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=75"
+  },
+  {
+    "id": "dch-a32",
+    "categoryIndex": 0,
+    "code": "DCH-A32",
+    "title": "DCH-A32 — 8 teclas de doble velocidad",
+    "name": "DCH-A32",
+    "description": "Transmisor de 8 teclas de doble velocidad, 170 × 58 × 40 mm y 350 g. IP65, antena integrada, parada de emergencia tipo hongo EN 13849-1 y alcance ≥150 m en entorno abierto. Usa 3 pilas AA, supera 200 h de operación y es adecuado para grúas europeas de 3 mecanismos; compatible con receptores R15 y R20.",
+    "sourceDescription": "Transmisor de 8 teclas de doble velocidad, 170 × 58 × 40 mm y 350 g. IP65, antena integrada, parada de emergencia tipo hongo EN 13849-1 y alcance ≥150 m en entorno abierto. Usa 3 pilas AA, supera 200 h de operación y es adecuado para grúas europeas de 3 mecanismos; compatible con receptores R15 y R20.",
+    "image": "assets/dch/dch-a32.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-A32"
+      ],
+      [
+        "Configuración",
+        "8 teclas de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "170 × 58 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=8"
+  },
+  {
+    "id": "dch-a42",
+    "categoryIndex": 0,
+    "code": "DCH-A42",
+    "title": "DCH-A42 — 10 teclas de doble velocidad",
+    "name": "DCH-A42",
+    "description": "Transmisor de 10 teclas de doble velocidad, 200 × 58 × 40 mm y 380 g. Cuenta con IP65, antena interna, parada de emergencia EN 13849-1, alcance ≥150 m y más de 200 h con 3 pilas AA. Indicado para grúas europeas de 4 mecanismos; receptor R20 opcional.",
+    "sourceDescription": "Transmisor de 10 teclas de doble velocidad, 200 × 58 × 40 mm y 380 g. Cuenta con IP65, antena interna, parada de emergencia EN 13849-1, alcance ≥150 m y más de 200 h con 3 pilas AA. Indicado para grúas europeas de 4 mecanismos; receptor R20 opcional.",
+    "image": "assets/dch/dch-a42.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-A42"
+      ],
+      [
+        "Configuración",
+        "10 teclas de doble velocidad"
+      ],
+      [
+        "Dimensiones",
+        "200 × 58 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=10"
+  },
+  {
+    "id": "dch-c20",
+    "categoryIndex": 0,
+    "code": "DCH-C20",
+    "title": "DCH-C20 — hasta 20 DI + 2 AI",
+    "name": "DCH-C20",
+    "description": "Control industrial configurable de 200 × 80 × 40 mm y 500–800 g. Admite hasta 20 salidas digitales (teclas, interruptores o selectores) y 2 señales analógicas (joystick o potenciómetro). IP65, pantalla LED de 3,5” opcional, batería de litio recargable de 2.500 mAh (>24 h), alcance ≥150 m y receptores de toda la gama. Adecuado para grúas, AGV, vehículos de saneamiento, maquinaria minera y otros equipos.",
+    "sourceDescription": "Control industrial configurable de 200 × 80 × 40 mm y 500–800 g. Admite hasta 20 salidas digitales (teclas, interruptores o selectores) y 2 señales analógicas (joystick o potenciómetro). IP65, pantalla LED de 3,5” opcional, batería de litio recargable de 2.500 mAh (>24 h), alcance ≥150 m y receptores de toda la gama. Adecuado para grúas, AGV, vehículos de saneamiento, maquinaria minera y otros equipos.",
+    "image": "assets/dch/dch-c20.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-C20"
+      ],
+      [
+        "Configuración",
+        "hasta 20 DI + 2 AI"
+      ],
+      [
+        "Dimensiones",
+        "200 × 80 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=11"
+  },
+  {
+    "id": "dch-c24",
+    "categoryIndex": 0,
+    "code": "DCH-C24",
+    "title": "DCH-C24 — hasta 24 DI + 4 AI",
+    "name": "DCH-C24",
+    "description": "Versión configurable de 200 × 80 × 40 mm y 500–800 g, con hasta 24 salidas digitales y 4 señales analógicas. IP65, pantalla LED de 3,5” opcional, batería de litio de 2.500 mAh (>24 h), alcance ≥150 m y opciones de control uno-a-muchos, muchos-a-uno, alarma por inclinación/vibración y control cableado.",
+    "sourceDescription": "Versión configurable de 200 × 80 × 40 mm y 500–800 g, con hasta 24 salidas digitales y 4 señales analógicas. IP65, pantalla LED de 3,5” opcional, batería de litio de 2.500 mAh (>24 h), alcance ≥150 m y opciones de control uno-a-muchos, muchos-a-uno, alarma por inclinación/vibración y control cableado.",
+    "image": "assets/dch/dch-c24.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-C24"
+      ],
+      [
+        "Configuración",
+        "hasta 24 DI + 4 AI"
+      ],
+      [
+        "Dimensiones",
+        "200 × 80 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=12"
+  },
+  {
+    "id": "dch-a31",
+    "categoryIndex": 0,
+    "code": "DCH-A31",
+    "title": "DCH-A31 — 8 teclas de velocidad única",
+    "name": "DCH-A31",
+    "description": "Transmisor de 8 teclas de una velocidad, 170 × 58 × 40 mm y 350 g. IP65, antena integrada, parada de emergencia EN 13849-1, alcance ≥150 m, 3 pilas AA y más de 200 h de funcionamiento. Para grúas monoviga y europeas; receptor R10 opcional.",
+    "sourceDescription": "Transmisor de 8 teclas de una velocidad, 170 × 58 × 40 mm y 350 g. IP65, antena integrada, parada de emergencia EN 13849-1, alcance ≥150 m, 3 pilas AA y más de 200 h de funcionamiento. Para grúas monoviga y europeas; receptor R10 opcional.",
+    "image": "assets/dch/dch-a31.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-A31"
+      ],
+      [
+        "Configuración",
+        "8 teclas de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "170 × 58 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=7"
+  },
+  {
+    "id": "dch-a41",
+    "categoryIndex": 0,
+    "code": "DCH-A41",
+    "title": "DCH-A41 — 10 teclas de velocidad única",
+    "name": "DCH-A41",
+    "description": "Transmisor de 10 teclas de una velocidad, 200 × 58 × 40 mm y 380 g. IP65, antena integrada, parada de emergencia EN 13849-1, alcance ≥150 m, 3 pilas AA y más de 200 h de uso. Pensado para grúas de doble viga con doble gancho; puede equiparse con receptores R15 o R20.",
+    "sourceDescription": "Transmisor de 10 teclas de una velocidad, 200 × 58 × 40 mm y 380 g. IP65, antena integrada, parada de emergencia EN 13849-1, alcance ≥150 m, 3 pilas AA y más de 200 h de uso. Pensado para grúas de doble viga con doble gancho; puede equiparse con receptores R15 o R20.",
+    "image": "assets/dch/dch-a41.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-A41"
+      ],
+      [
+        "Configuración",
+        "10 teclas de velocidad única"
+      ],
+      [
+        "Dimensiones",
+        "200 × 58 × 40 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=1&id=9"
+  },
+  {
+    "id": "dch-ea",
+    "categoryIndex": 1,
+    "code": "DCH-EA",
+    "title": "DCH-EA",
+    "name": "DCH-EA",
+    "description": "Control industrial con correa, 250 × 100 × 150 mm y 1,2–1,8 kg. Hasta 24 salidas digitales y 8 analógicas; IP65, alcance ≥150 m, dos baterías de litio de 2.500 mAh (>48 h) y paro de emergencia EN 13849-1.",
+    "sourceDescription": "Control industrial con correa, 250 × 100 × 150 mm y 1,2–1,8 kg. Hasta 24 salidas digitales y 8 analógicas; IP65, alcance ≥150 m, dos baterías de litio de 2.500 mAh (>48 h) y paro de emergencia EN 13849-1.",
+    "image": "assets/dch/dch-ea.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-EA"
+      ],
+      [
+        "Dimensiones",
+        "250 × 100 × 150 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=70"
+  },
+  {
+    "id": "dch-eb",
+    "categoryIndex": 1,
+    "code": "DCH-EB",
+    "title": "DCH-EB",
+    "name": "DCH-EB",
+    "description": "Transmisor con correa de 280 × 160 × 160 mm, configurable con hasta 42 salidas digitales y 8 analógicas. IP65, alcance ≥150 m, dos baterías de 2.500 mAh (>48 h) y paro de emergencia EN 13849-1.",
+    "sourceDescription": "Transmisor con correa de 280 × 160 × 160 mm, configurable con hasta 42 salidas digitales y 8 analógicas. IP65, alcance ≥150 m, dos baterías de 2.500 mAh (>48 h) y paro de emergencia EN 13849-1.",
+    "image": "assets/dch/dch-eb.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-EB"
+      ],
+      [
+        "Dimensiones",
+        "280 × 160 × 160 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=71"
+  },
+  {
+    "id": "dch-ec",
+    "categoryIndex": 1,
+    "code": "DCH-EC",
+    "title": "DCH-EC",
+    "name": "DCH-EC",
+    "description": "Control de gran formato (350 × 190 × 160 mm; 1,5–2,5 kg) con hasta 72 salidas digitales y 12 analógicas. Incluye IP65, alcance ≥150 m, dos baterías de 2.500 mAh y funciones configurables de seguridad y control.",
+    "sourceDescription": "Control de gran formato (350 × 190 × 160 mm; 1,5–2,5 kg) con hasta 72 salidas digitales y 12 analógicas. Incluye IP65, alcance ≥150 m, dos baterías de 2.500 mAh y funciones configurables de seguridad y control.",
+    "image": "assets/dch/dch-ec.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-EC"
+      ],
+      [
+        "Dimensiones",
+        "350 × 190 × 160 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=72"
+  },
+  {
+    "id": "dch-s24",
+    "categoryIndex": 1,
+    "code": "DCH-S24",
+    "title": "DCH-S24 — hasta 24 DI + 8 AI",
+    "name": "DCH-S24",
+    "description": "Transmisor con correa de 230 × 140 × 100 mm, hasta 24 entradas/salidas digitales y 8 analógicas. IP65, alcance ≥150 m, autonomía >48 h con dos baterías de 2.500 mAh y paro EN 13849-1.",
+    "sourceDescription": "Transmisor con correa de 230 × 140 × 100 mm, hasta 24 entradas/salidas digitales y 8 analógicas. IP65, alcance ≥150 m, autonomía >48 h con dos baterías de 2.500 mAh y paro EN 13849-1.",
+    "image": "assets/dch/dch-s24.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-S24"
+      ],
+      [
+        "Configuración",
+        "hasta 24 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "230 × 140 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=17"
+  },
+  {
+    "id": "dch-s48",
+    "categoryIndex": 1,
+    "code": "DCH-S48",
+    "title": "DCH-S48 — hasta 42 DI + 8 AI",
+    "name": "DCH-S48",
+    "description": "Versión S con hasta 42 señales digitales y 8 analógicas. Mantiene formato 230 × 140 × 100 mm, IP65, dos baterías de 2.500 mAh, alcance ≥150 m y controles personalizables.",
+    "sourceDescription": "Versión S con hasta 42 señales digitales y 8 analógicas. Mantiene formato 230 × 140 × 100 mm, IP65, dos baterías de 2.500 mAh, alcance ≥150 m y controles personalizables.",
+    "image": "assets/dch/dch-s48.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-S48"
+      ],
+      [
+        "Configuración",
+        "hasta 42 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "230 × 140 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=18"
+  },
+  {
+    "id": "dch-m24",
+    "categoryIndex": 1,
+    "code": "DCH-M24",
+    "title": "DCH-M24 — hasta 24 DI + 8 AI",
+    "name": "DCH-M24",
+    "description": "Transmisor de 260 × 160 × 100 mm, con hasta 24 señales digitales y 8 analógicas. Protección IP65, alcance ≥150 m, dos baterías de 2.500 mAh y opciones de joystick, interruptores y selectores.",
+    "sourceDescription": "Transmisor de 260 × 160 × 100 mm, con hasta 24 señales digitales y 8 analógicas. Protección IP65, alcance ≥150 m, dos baterías de 2.500 mAh y opciones de joystick, interruptores y selectores.",
+    "image": "assets/dch/dch-m24.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-M24"
+      ],
+      [
+        "Configuración",
+        "hasta 24 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "260 × 160 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=16"
+  },
+  {
+    "id": "dch-m48",
+    "categoryIndex": 1,
+    "code": "DCH-M48",
+    "title": "DCH-M48 — hasta 42 DI + 8 AI",
+    "name": "DCH-M48",
+    "description": "Control con correa de 260 × 160 × 100 mm, hasta 42 señales digitales y 8 analógicas. IP65, alcance ≥150 m, dos baterías de litio de 2.500 mAh y paro de emergencia EN 13849-1.",
+    "sourceDescription": "Control con correa de 260 × 160 × 100 mm, hasta 42 señales digitales y 8 analógicas. IP65, alcance ≥150 m, dos baterías de litio de 2.500 mAh y paro de emergencia EN 13849-1.",
+    "image": "assets/dch/dch-m48.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-M48"
+      ],
+      [
+        "Configuración",
+        "hasta 42 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "260 × 160 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=4&id=15"
+  },
+  {
+    "id": "dch-ebd",
+    "categoryIndex": 2,
+    "code": "DCH-EBD",
+    "title": "DCH-EBD",
+    "name": "DCH-EBD",
+    "description": "Control IP65 de 280 × 160 × 160 mm, con pantalla LED HD de 3,5”. Configurable con hasta 42 señales digitales y 8 analógicas; muestra batería, señal y datos operativos. Dos baterías de 3.500 mAh, autonomía >48 h y alcance ≥150 m.",
+    "sourceDescription": "Control IP65 de 280 × 160 × 160 mm, con pantalla LED HD de 3,5”. Configurable con hasta 42 señales digitales y 8 analógicas; muestra batería, señal y datos operativos. Dos baterías de 3.500 mAh, autonomía >48 h y alcance ≥150 m.",
+    "image": "assets/dch/dch-ebd.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-EBD"
+      ],
+      [
+        "Dimensiones",
+        "280 × 160 × 160 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=6&id=73"
+  },
+  {
+    "id": "dch-ecd",
+    "categoryIndex": 2,
+    "code": "DCH-ECD",
+    "title": "DCH-ECD",
+    "name": "DCH-ECD",
+    "description": "Transmisor con pantalla LED HD de 5”, tamaño 350 × 190 × 160 mm y 1,5–2,8 kg. Hasta 72 señales digitales y 12 analógicas, IP65, dos baterías de 3.500 mAh y alcance ≥150 m.",
+    "sourceDescription": "Transmisor con pantalla LED HD de 5”, tamaño 350 × 190 × 160 mm y 1,5–2,8 kg. Hasta 72 señales digitales y 12 analógicas, IP65, dos baterías de 3.500 mAh y alcance ≥150 m.",
+    "image": "assets/dch/dch-ecd.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-ECD"
+      ],
+      [
+        "Dimensiones",
+        "350 × 190 × 160 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=6&id=74"
+  },
+  {
+    "id": "dch-d24",
+    "categoryIndex": 2,
+    "code": "DCH-D24",
+    "title": "DCH-D24 — hasta 24 DI + 8 AI",
+    "name": "DCH-D24",
+    "description": "Control de 230 × 140 × 100 mm con pantalla LED HD de 2,8” o 3,5”, hasta 24 señales digitales y 8 analógicas. IP65, alcance ≥150 m y dos baterías de 3.500 mAh (>48 h).",
+    "sourceDescription": "Control de 230 × 140 × 100 mm con pantalla LED HD de 2,8” o 3,5”, hasta 24 señales digitales y 8 analógicas. IP65, alcance ≥150 m y dos baterías de 3.500 mAh (>48 h).",
+    "image": "assets/dch/dch-d24.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-D24"
+      ],
+      [
+        "Configuración",
+        "hasta 24 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "230 × 140 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=6&id=29"
+  },
+  {
+    "id": "dch-d48",
+    "categoryIndex": 2,
+    "code": "DCH-D48",
+    "title": "DCH-D48 — hasta 42 DI + 8 AI",
+    "name": "DCH-D48",
+    "description": "Transmisor con pantalla HD de 2,8” o 3,5”, 260 × 160 × 100 mm y 1,5–2 kg. Admite hasta 42 señales digitales y 8 analógicas, con IP65, alcance ≥150 m y dos baterías de 3.500 mAh.",
+    "sourceDescription": "Transmisor con pantalla HD de 2,8” o 3,5”, 260 × 160 × 100 mm y 1,5–2 kg. Admite hasta 42 señales digitales y 8 analógicas, con IP65, alcance ≥150 m y dos baterías de 3.500 mAh.",
+    "image": "assets/dch/dch-d48.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-D48"
+      ],
+      [
+        "Configuración",
+        "hasta 42 DI + 8 AI"
+      ],
+      [
+        "Dimensiones",
+        "260 × 160 × 100 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=6&id=33"
+  },
+  {
+    "id": "dch-v48",
+    "categoryIndex": 2,
+    "code": "DCH-V48",
+    "title": "DCH-V48 — función de vídeo inalámbrico",
+    "name": "DCH-V48",
+    "description": "Control IP65 con hasta 42 señales digitales y 8 analógicas, pantalla LED de 2,8” y vídeo inalámbrico HD 720p. Admite hasta 4 cámaras, transmisión 2,4 GHz de más de 200 m y cámara IP69K; ideal para maquinaria que requiere supervisión remota.",
+    "sourceDescription": "Control IP65 con hasta 42 señales digitales y 8 analógicas, pantalla LED de 2,8” y vídeo inalámbrico HD 720p. Admite hasta 4 cámaras, transmisión 2,4 GHz de más de 200 m y cámara IP69K; ideal para maquinaria que requiere supervisión remota.",
+    "image": "assets/dch/dch-v48.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-V48"
+      ],
+      [
+        "Configuración",
+        "función de vídeo inalámbrico"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=6&id=57"
+  },
+  {
+    "id": "dch-p14",
+    "categoryIndex": 3,
+    "code": "DCH-P14",
+    "title": "DCH-P14 — 8 PWM/AO + 14 relés",
+    "name": "DCH-P14",
+    "description": "Receptor IP65 de 160 × 160 × 90 mm. Ofrece hasta 8 salidas PWM o analógicas, 14 relés y 2 relés de emergencia; entrada de alimentación configurable CA/CC y compatible con toda la gama de transmisores con correa.",
+    "sourceDescription": "Receptor IP65 de 160 × 160 × 90 mm. Ofrece hasta 8 salidas PWM o analógicas, 14 relés y 2 relés de emergencia; entrada de alimentación configurable CA/CC y compatible con toda la gama de transmisores con correa.",
+    "image": "assets/dch/dch-p14.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-P14"
+      ],
+      [
+        "Configuración",
+        "8 PWM/AO + 14 relés"
+      ],
+      [
+        "Dimensiones",
+        "160 × 160 × 90 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=45"
+  },
+  {
+    "id": "dch-p28",
+    "categoryIndex": 3,
+    "code": "DCH-P28",
+    "title": "DCH-P28 — 8 PWM/AO + 28 relés",
+    "name": "DCH-P28",
+    "description": "Receptor IP65 de 265 × 215 × 75 mm, con hasta 8 salidas PWM/analógicas, 28 relés y 2 relés de emergencia. Antena externa BNC, conector industrial y alimentación configurable CA/CC.",
+    "sourceDescription": "Receptor IP65 de 265 × 215 × 75 mm, con hasta 8 salidas PWM/analógicas, 28 relés y 2 relés de emergencia. Antena externa BNC, conector industrial y alimentación configurable CA/CC.",
+    "image": "assets/dch/dch-p28.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-P28"
+      ],
+      [
+        "Configuración",
+        "8 PWM/AO + 28 relés"
+      ],
+      [
+        "Dimensiones",
+        "265 × 215 × 75 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=46"
+  },
+  {
+    "id": "dch-r15",
+    "categoryIndex": 3,
+    "code": "DCH-R15",
+    "title": "DCH-R15 — 15 salidas por relé",
+    "name": "DCH-R15",
+    "description": "Receptor IP65 de 15 salidas por relé, incluidas 2 de parada de emergencia. Cada relé admite 4 A/250 VCA; antena externa, vida útil de 5 millones de ciclos y compatibilidad con transmisores A22, A31 y A32.",
+    "sourceDescription": "Receptor IP65 de 15 salidas por relé, incluidas 2 de parada de emergencia. Cada relé admite 4 A/250 VCA; antena externa, vida útil de 5 millones de ciclos y compatibilidad con transmisores A22, A31 y A32.",
+    "image": "assets/dch/dch-r15.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-R15"
+      ],
+      [
+        "Configuración",
+        "15 salidas por relé"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=47"
+  },
+  {
+    "id": "dch-r20",
+    "categoryIndex": 3,
+    "code": "DCH-R20",
+    "title": "DCH-R20 — 20 salidas por relé",
+    "name": "DCH-R20",
+    "description": "Receptor IP65 de 20 relés, 2 destinados a parada de emergencia. Relés de 4 A/250 VCA, antena externa, 5 millones de ciclos y compatibilidad con A32, A41 y A42.",
+    "sourceDescription": "Receptor IP65 de 20 relés, 2 destinados a parada de emergencia. Relés de 4 A/250 VCA, antena externa, 5 millones de ciclos y compatibilidad con A32, A41 y A42.",
+    "image": "assets/dch/dch-r20.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-R20"
+      ],
+      [
+        "Configuración",
+        "20 salidas por relé"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=48"
+  },
+  {
+    "id": "dch-r30",
+    "categoryIndex": 3,
+    "code": "DCH-R30",
+    "title": "DCH-R30 — 30 salidas por relé",
+    "name": "DCH-R30",
+    "description": "Receptor IP65 de 30 relés (2 de emergencia), relés de 4 A/250 VCA y 5 millones de ciclos. Compatible con las series de transmisores con correa S, M y D.",
+    "sourceDescription": "Receptor IP65 de 30 relés (2 de emergencia), relés de 4 A/250 VCA y 5 millones de ciclos. Compatible con las series de transmisores con correa S, M y D.",
+    "image": "assets/dch/dch-r30.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-R30"
+      ],
+      [
+        "Configuración",
+        "30 salidas por relé"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=49"
+  },
+  {
+    "id": "dch-r50",
+    "categoryIndex": 3,
+    "code": "DCH-R50",
+    "title": "DCH-R50 — 50 salidas por relé",
+    "name": "DCH-R50",
+    "description": "Receptor IP65 de 50 relés, con 2 relés de emergencia, carga de 4 A/250 VCA y vida útil de 5 millones de ciclos. Compatible con las series S, M y D de transmisores con correa.",
+    "sourceDescription": "Receptor IP65 de 50 relés, con 2 relés de emergencia, carga de 4 A/250 VCA y vida útil de 5 millones de ciclos. Compatible con las series S, M y D de transmisores con correa.",
+    "image": "assets/dch/dch-r50.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-R50"
+      ],
+      [
+        "Configuración",
+        "50 salidas por relé"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=8&id=51"
+  },
+  {
+    "id": "dch-bm",
+    "categoryIndex": 4,
+    "code": "DCH-BM",
+    "title": "DCH-BM — RS-485 / RS-232",
+    "name": "DCH-BM",
+    "description": "Receptor IP65 de 140 × 80 × 65 mm para Modbus RTU RS-485, RS-232 o TTL. Incluye salida de paro de emergencia doble (bus y física), antena externa y alimentación CA/CC configurable.",
+    "sourceDescription": "Receptor IP65 de 140 × 80 × 65 mm para Modbus RTU RS-485, RS-232 o TTL. Incluye salida de paro de emergencia doble (bus y física), antena externa y alimentación CA/CC configurable.",
+    "image": "assets/dch/dch-bm.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BM"
+      ],
+      [
+        "Configuración",
+        "RS-485 / RS-232"
+      ],
+      [
+        "Dimensiones",
+        "140 × 80 × 65 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=38"
+  },
+  {
+    "id": "dch-bc",
+    "categoryIndex": 4,
+    "code": "DCH-BC",
+    "title": "DCH-BC — CAN 2.0",
+    "name": "DCH-BC",
+    "description": "Receptor IP65 CAN 2.0A/2.0B con transmisión transparente bidireccional. Tamaño 140 × 80 × 65 mm, salida de paro de emergencia doble, antena SMA externa y alimentación CA/CC configurable.",
+    "sourceDescription": "Receptor IP65 CAN 2.0A/2.0B con transmisión transparente bidireccional. Tamaño 140 × 80 × 65 mm, salida de paro de emergencia doble, antena SMA externa y alimentación CA/CC configurable.",
+    "image": "assets/dch/dch-bc.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BC"
+      ],
+      [
+        "Configuración",
+        "CAN 2.0"
+      ],
+      [
+        "Dimensiones",
+        "140 × 80 × 65 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=39"
+  },
+  {
+    "id": "dch-bp",
+    "categoryIndex": 4,
+    "code": "DCH-BP",
+    "title": "DCH-BP — PROFIBUS-DP",
+    "name": "DCH-BP",
+    "description": "Receptor IP65 para bus PROFIBUS-DP, 160 × 160 × 90 mm. Incluye salidas de emergencia por bus y física, conector industrial y D-sub de 9 pines, antena BNC y alimentación CA/CC configurable.",
+    "sourceDescription": "Receptor IP65 para bus PROFIBUS-DP, 160 × 160 × 90 mm. Incluye salidas de emergencia por bus y física, conector industrial y D-sub de 9 pines, antena BNC y alimentación CA/CC configurable.",
+    "image": "assets/dch/dch-bp.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BP"
+      ],
+      [
+        "Configuración",
+        "PROFIBUS-DP"
+      ],
+      [
+        "Dimensiones",
+        "160 × 160 × 90 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=40"
+  },
+  {
+    "id": "dch-bn",
+    "categoryIndex": 4,
+    "code": "DCH-BN",
+    "title": "DCH-BN — PROFINET",
+    "name": "DCH-BN",
+    "description": "Receptor IP65 para PROFINET, de 160 × 160 × 90 mm. Ofrece paro de emergencia doble, conector industrial y puerto de red estándar, antena BNC externa y alimentación configurable.",
+    "sourceDescription": "Receptor IP65 para PROFINET, de 160 × 160 × 90 mm. Ofrece paro de emergencia doble, conector industrial y puerto de red estándar, antena BNC externa y alimentación configurable.",
+    "image": "assets/dch/dch-bn.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BN"
+      ],
+      [
+        "Configuración",
+        "PROFINET"
+      ],
+      [
+        "Dimensiones",
+        "160 × 160 × 90 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=41"
+  },
+  {
+    "id": "dch-bd",
+    "categoryIndex": 4,
+    "code": "DCH-BD",
+    "title": "DCH-BD — DeviceNet",
+    "name": "DCH-BD",
+    "description": "Receptor IP65 para protocolo DeviceNet, 160 × 160 × 90 mm. Incluye paro de emergencia por bus y físico, conector industrial, puerto de red y alimentación CA/CC configurable.",
+    "sourceDescription": "Receptor IP65 para protocolo DeviceNet, 160 × 160 × 90 mm. Incluye paro de emergencia por bus y físico, conector industrial, puerto de red y alimentación CA/CC configurable.",
+    "image": "assets/dch/dch-bd.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BD"
+      ],
+      [
+        "Configuración",
+        "DeviceNet"
+      ],
+      [
+        "Dimensiones",
+        "160 × 160 × 90 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=42"
+  },
+  {
+    "id": "dch-bo",
+    "categoryIndex": 4,
+    "code": "DCH-BO",
+    "title": "DCH-BO — CANopen",
+    "name": "DCH-BO",
+    "description": "Receptor IP65 para CANopen, de 160 × 160 × 90 mm. Paro de emergencia doble, antena BNC externa, conector industrial y alimentación CA/CC configurable para transmisores con correa.",
+    "sourceDescription": "Receptor IP65 para CANopen, de 160 × 160 × 90 mm. Paro de emergencia doble, antena BNC externa, conector industrial y alimentación CA/CC configurable para transmisores con correa.",
+    "image": "assets/dch/dch-bo.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [
+      [
+        "Modelo",
+        "DCH-BO"
+      ],
+      [
+        "Configuración",
+        "CANopen"
+      ],
+      [
+        "Dimensiones",
+        "160 × 160 × 90 mm"
+      ],
+      [
+        "Protección",
+        "IP65"
+      ]
+    ],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=11&id=43"
+  },
+  {
+    "id": "correa-de-hombro",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Correa de hombro",
+    "name": "Correa de hombro",
+    "description": "Correa de hombro para transportar transmisores industriales compatibles.",
+    "sourceDescription": "Correa de hombro para transportar transmisores industriales compatibles.",
+    "image": "assets/dch/correa-de-hombro.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=56"
+  },
+  {
+    "id": "cargador-de-24-vcc-para-camion",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Cargador de 24 VCC para camión",
+    "name": "Cargador de 24 VCC para camión",
+    "description": "Cargador vehicular de 24 VCC; indicador rojo durante la carga y verde al completarla.",
+    "sourceDescription": "Cargador vehicular de 24 VCC; indicador rojo durante la carga y verde al completarla.",
+    "image": "assets/dch/cargador-de-24-vcc-para-camion.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=55"
+  },
+  {
+    "id": "cargador-de-220-vca",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Cargador de 220 VCA",
+    "name": "Cargador de 220 VCA",
+    "description": "Cargador estándar de 220 VCA con indicador rojo de carga y verde de carga completa.",
+    "sourceDescription": "Cargador estándar de 220 VCA con indicador rojo de carga y verde de carga completa.",
+    "image": "assets/dch/cargador-de-220-vca.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=54"
+  },
+  {
+    "id": "bateria-recargable-de-ion-litio",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Batería recargable de ion-litio",
+    "name": "Batería recargable de ion-litio",
+    "description": "Batería de ion-litio modelo 2770277, capacidad de 2.500 mAh, tensión de 8 VCC y tiempo de carga de 2–3 horas con cargador compatible.",
+    "sourceDescription": "Batería de ion-litio modelo 2770277, capacidad de 2.500 mAh, tensión de 8 VCC y tiempo de carga de 2–3 horas con cargador compatible.",
+    "image": "assets/dch/bateria-recargable-de-ion-litio.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=53"
+  },
+  {
+    "id": "antena-de-receptor",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Antena de receptor",
+    "name": "Antena de receptor",
+    "description": "Antena de receptor de 433 MHz, ganancia de 5 dBi, ROE ≤1,5, impedancia de 50 Ω, potencia máxima de 100 W, altura de 205 mm y cable de 3 m tipo 50-3.",
+    "sourceDescription": "Antena de receptor de 433 MHz, ganancia de 5 dBi, ROE ≤1,5, impedancia de 50 Ω, potencia máxima de 100 W, altura de 205 mm y cable de 3 m tipo 50-3.",
+    "image": "assets/dch/antena-de-receptor.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=52"
+  },
+  {
+    "id": "antena-de-transmisor",
+    "categoryIndex": 5,
+    "code": "DCH Radio control",
+    "title": "Antena de transmisor",
+    "name": "Antena de transmisor",
+    "description": "Antena de repuesto para transmisor.",
+    "sourceDescription": "Antena de repuesto para transmisor. La ficha del fabricante no detalla más especificaciones técnicas.",
+    "image": "assets/dch/antena-de-transmisor.webp",
+    "eyebrow": "DCH Radio control · Productos",
+    "specs": [],
+    "sourceUrl": "https://www.dch-radio.com/en/product-show.php?classID=2&id=58"
+  }
+]

@@ -1,19 +1,23 @@
 import { brands as brandLabels } from "../catalog.js";
 import { useEffect } from "react";
 import { Link, useLocation, useParams } from "react-router-dom";
-import { details } from "../catalog.js";
+import { details, dchProducts } from "../catalog.js";
 
 export default function Detail() {
   const { section, brand, id } = useParams();
   const { state } = useLocation();
-  const item = details[`detalle/${section}/${brand}/${id}`];
+  const isDchProduct = section === "productos" && brand === "dch";
+  const item = isDchProduct
+    ? dchProducts.find((product) => product.id === id) ??
+      (/^[0-5]$/.test(id) ? dchProducts.find((product) => product.categoryIndex === Number(id)) : undefined)
+    : details[`detalle/${section}/${brand}/${id}`];
   const label =
     {
       productos: "productos",
       servicios: "servicios",
       aplicaciones: "aplicaciones",
     }[section] || "inicio";
-  const fallback = `/${label}/${brand}${section === "productos" ? `?categoria=${id}` : ""}`;
+  const fallback = `/${label}/${brand}${section === "productos" ? `?categoria=${item?.categoryIndex ?? id}` : ""}`;
   const returnPath = state?.returnTo?.split('?')[0];
   const returnTo = [ `/${label}`, `/${label}/${brand}` ].includes(returnPath)
     ? state.returnTo

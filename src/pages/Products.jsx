@@ -10,6 +10,7 @@ import BrandSwitch from "../components/BrandSwitch.jsx";
 import Pagination from "../components/Pagination.jsx";
 import {
   brands,
+  dchProducts,
   descriptions,
   validBrand,
   normalize,
@@ -55,14 +56,26 @@ export default function Products() {
   const searchable = normalize(
     `${title} ${info.codes[category]} ${descriptions[brand][category][0]}`,
   );
-  // Preserve the catalog quantities shown in the supplied mockup.
-  const total = searchable.includes(normalize(query))
+  const matches = dchProducts.filter((item) =>
+    item.categoryIndex === category &&
+    normalize(`${item.title} ${item.description}`).includes(normalize(query)),
+  );
+  const total = brand === "dch" ? matches.length : searchable.includes(normalize(query))
     ? info.counts[category]
     : 0;
   const pageCount = Math.max(1, Math.ceil(total / 6));
   const page = boundedInteger(params.get("pagina") || 1, 1, pageCount);
   const start = (page - 1) * 6;
   const visible = Math.min(6, total - start);
+  const products = brand === "dch" ? matches.slice(start, start + 6) :
+    Array.from({ length: visible }, (_, index) => ({
+      id: `${category}-${start + index}`,
+      routeId: category,
+      image: `assets/${info.image}-${category}.webp`,
+      code: info.codes[category],
+      title,
+      description: descriptions[brand][category][4],
+    }));
   const returnTo = location.pathname + location.search;
 
   function selectPage(value) {
@@ -116,7 +129,7 @@ export default function Products() {
               onClick={() => setParams({ categoria: String(index) })}
             >
               <img
-                src={`assets/${info.image}-${index}.webp`}
+                src={brand === "dch" ? dchProducts.find((item) => item.categoryIndex === index).image : `assets/${info.image}-${index}.webp`}
                 alt=""
                 loading="lazy"
               />
@@ -139,26 +152,26 @@ export default function Products() {
           : "0 resultados"}
       </p>
       <div className="product-grid">
-        {Array.from({ length: visible }, (_, index) => (
+        {products.map((product) => (
           <article
             className="product-card"
-            key={`${brand}-${category}-${start + index}`}
+            key={product.id}
           >
             <img
               className="catalog-product-image"
-              src={`assets/${info.image}-${category}.webp`}
-              alt={title}
+              src={product.image}
+              alt={product.title}
               loading="lazy"
             />
             <div className="product-body">
-              <span className="code">{info.codes[category]}</span>
-              <h3>{title}</h3>
-              <p>{descriptions[brand][category][4]}</p>
+              <span className="code">{product.code}</span>
+              <h3>{product.title}</h3>
+              <p className={brand === "dch" ? "product-summary" : undefined}>{product.description}</p>
               <Link
                 className="more"
-                to={`/detalle/productos/${brand}/${category}`}
+                to={`/detalle/productos/${brand}/${product.routeId ?? product.id}`}
                 state={{ returnTo }}
-                aria-label={`Ver ${title}`}
+                aria-label={`Ver ${product.title}`}
               >
                 Más +
               </Link>

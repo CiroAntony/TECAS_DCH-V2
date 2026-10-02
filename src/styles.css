@@ -76,3 +76,9 @@ main:focus {
   .unified-brands .brand-card + .brand-card { border-left: 0; border-top: 1px solid var(--line); }
   .switch a { padding: 10px 12px; font-size: 14px; white-space: normal; }
 }
+.product-summary {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

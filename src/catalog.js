@@ -1,4 +1,7 @@
 import data from "./data/catalog.json";
+import dchProducts from "./data/dch-products.json";
+
+export { dchProducts };
 
 export const { brands, applications, services, descriptions, details } = data;
 export const validBrand = (value) =>
